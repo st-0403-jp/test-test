@@ -10,3 +10,9 @@ body {
 h1 {
   text-align: center;
 }
+p {
+  text-align: center;
+  color: #f00;
+  background-color: #ccc;
+}
+
